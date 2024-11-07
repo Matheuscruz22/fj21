@@ -1,6 +1,4 @@
-package br.com.caelum.teste;
-
-import br.com.caelum.jdbc.ConnectionFactory;
+package br.com.caelum.jdbc;
 
 public class TesteConexão extends ConnectionFactory {
 
